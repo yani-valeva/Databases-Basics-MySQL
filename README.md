@@ -12,5 +12,8 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of problems - https://softuni.bg/trainings/resources/officedocument/15255/exercise-problem-descriptions-databases-basics-mysql-may-2017;
 
 - Data Aggregation - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Data%20Aggregation.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/15390/exercise-problem-descriptions-databases-basics-mysql-may-2017.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15390/exercise-problem-descriptions-databases-basics-mysql-may-2017;
+
+- Table Relations - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Table%20Relations.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15542/exercise-problem-descriptions-databases-basics-mysql-may-2017.
 
