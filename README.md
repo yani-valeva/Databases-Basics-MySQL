@@ -15,5 +15,8 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of problems - https://softuni.bg/trainings/resources/officedocument/15390/exercise-problem-descriptions-databases-basics-mysql-may-2017;
 
 - Table Relations - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Table%20Relations.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/15542/exercise-problem-descriptions-databases-basics-mysql-may-2017.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15542/exercise-problem-descriptions-databases-basics-mysql-may-2017;
+
+- Subqueries and JOINs - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Subqueries%20and%20JOINs.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15686/exercise-problem-descriptions-databases-basics-mysql-may-2017.
 
