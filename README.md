@@ -21,5 +21,7 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of problems - https://softuni.bg/trainings/resources/officedocument/15686/exercise-problem-descriptions-databases-basics-mysql-may-2017;
 
 - Functions, Triggers and Transactions - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Functions%20Triggers%20And%20Transactions.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/15720/exercise-problem-descriptions-databases-basics-mysql-may-2017.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15720/exercise-problem-descriptions-databases-basics-mysql-may-2017;
+
+- Exam Preparation I - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Exam%20Preparation%20I.
 
