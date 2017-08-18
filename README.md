@@ -27,5 +27,7 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - Exam Preparation II - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Exam%20Preparation%20II;
 
-- Exam Preparation III - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Exam%20preparation%20III.
+- Exam Preparation III - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Exam%20preparation%20III;
+
+- Exam - https://github.com/yani-valeva/Databases-Basics-MySQL/tree/master/Exam.
 
